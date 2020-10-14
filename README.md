@@ -1,2 +1,2 @@
 # Discord-Bot
-Bot that uses the Discord API 
+Discord Bot made in Python
